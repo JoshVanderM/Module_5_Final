@@ -14,12 +14,3 @@ and will fit the small needs for this project.
 
 # Other Notes 
 If you download these files they are property of Joshua VanderMeer.
-
-# Hypothetical new project
-Max Poole's fork
-
-The project will be an equation solver
-
-This can be done rather simply in python
-
-It will check for the missing variable and use the others to solve for it
