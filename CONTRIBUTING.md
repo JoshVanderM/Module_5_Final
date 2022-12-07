@@ -1,4 +1,3 @@
-# This is the contributing file for this repo
+# This is the contributing file for this repository
 
-Please add your stuff to this file:
-
+Joshua VanderMeer
